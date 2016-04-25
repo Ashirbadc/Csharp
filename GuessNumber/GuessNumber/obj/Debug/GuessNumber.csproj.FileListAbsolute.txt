@@ -1,0 +1,5 @@
+C:\Users\student\Documents\Ash\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\student\Documents\Ash\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\student\Documents\Ash\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\student\Documents\Ash\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\student\Documents\Ash\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

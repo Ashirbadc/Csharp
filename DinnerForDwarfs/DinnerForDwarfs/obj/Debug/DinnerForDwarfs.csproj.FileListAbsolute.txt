@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\bin\Debug\DinnerForDwarfs.exe.config
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\bin\Debug\DinnerForDwarfs.exe
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\bin\Debug\DinnerForDwarfs.pdb
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\obj\Debug\DinnerForDwarfs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\obj\Debug\DinnerForDwarfs.exe
+C:\Users\student\Documents\Ash\DinnerForDwarfs\DinnerForDwarfs\obj\Debug\DinnerForDwarfs.pdb

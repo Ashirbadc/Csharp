@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\bin\Debug\NextPresident.exe.config
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\obj\Debug\NextPresident.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\bin\Debug\NextPresident.exe
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\bin\Debug\NextPresident.pdb
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\obj\Debug\NextPresident.exe
+C:\Users\student\Documents\Ash\NextPresident\NextPresident\obj\Debug\NextPresident.pdb
