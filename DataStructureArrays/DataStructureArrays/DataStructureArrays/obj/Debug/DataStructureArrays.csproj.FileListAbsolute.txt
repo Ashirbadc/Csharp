@@ -1,0 +1,6 @@
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe.config
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.exe
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\bin\Debug\DataStructureArrays.pdb
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.csprojResolveAssemblyReference.cache
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.exe
+C:\Users\ashir\Documents\GitHub\Csharp\DataStructureArrays\DataStructureArrays\DataStructureArrays\obj\Debug\DataStructureArrays.pdb
