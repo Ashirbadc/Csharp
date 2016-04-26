@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\bin\Debug\CsharpException.exe.config
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\obj\Debug\CsharpException.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\bin\Debug\CsharpException.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\bin\Debug\CsharpException.pdb
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\obj\Debug\CsharpException.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpException\CsharpException\obj\Debug\CsharpException.pdb

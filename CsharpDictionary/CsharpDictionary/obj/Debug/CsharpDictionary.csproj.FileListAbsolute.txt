@@ -1,2 +1,6 @@
 C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\bin\Debug\CsharpDictionary.exe.config
 C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\obj\Debug\CsharpDictionary.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\bin\Debug\CsharpDictionary.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\bin\Debug\CsharpDictionary.pdb
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\obj\Debug\CsharpDictionary.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\obj\Debug\CsharpDictionary.pdb
