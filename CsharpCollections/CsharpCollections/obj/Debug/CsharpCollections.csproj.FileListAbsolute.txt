@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\bin\Debug\CsharpCollections.exe.config
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\obj\Debug\CsharpCollections.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\bin\Debug\CsharpCollections.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\bin\Debug\CsharpCollections.pdb
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\obj\Debug\CsharpCollections.exe
+C:\Users\student\Documents\GitHub\Csharp\CsharpCollections\CsharpCollections\obj\Debug\CsharpCollections.pdb

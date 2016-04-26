@@ -1,0 +1,2 @@
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\bin\Debug\CsharpDictionary.exe.config
+C:\Users\student\Documents\GitHub\Csharp\CsharpDictionary\CsharpDictionary\obj\Debug\CsharpDictionary.csprojResolveAssemblyReference.cache
