@@ -67,8 +67,14 @@ namespace CsharpDictionary
                                 int totalitems = codingLanguages.Count();
                                 Console.WriteLine("there are " + totalitems + " items in the dictionary");
                                 break;
-
-                            default:
+                    case 'S':
+                        Console.WriteLine("type of description of language if you would like to look up ");
+                        answer = Console.ReadLine();
+                        string description;
+                        codingLanguages.TryGetValue(answer, out description);
+                        Console.WriteLine("Here is the descripton " + answer + "is in the dictionary");
+                            break;
+                    default:
                                 break;
                         }
                         // get userinput to test while loop
