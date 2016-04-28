@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\TestingProgram\bin\Debug\TestingProgram.exe.config
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\TestingProgram\bin\Debug\TestingProgram.exe
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\TestingProgram\bin\Debug\TestingProgram.pdb
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\TestingProgram\obj\Debug\TestingProgram.exe
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\TestingProgram\obj\Debug\TestingProgram.pdb

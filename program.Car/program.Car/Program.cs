@@ -14,9 +14,10 @@ namespace program.Car
         public string make;
         public int price;
         public Boolean sold;
-        private static int numberOfCars;
+        public static int numberOfCars;
+        public static int totalValueSold = 0;
+        public static int totalValueInStock = 0;
 
-        
         public void AddCar(string model, string make, int price)
         {
             //object created
@@ -25,23 +26,52 @@ namespace program.Car
             this.price = price;
             this.sold = false;
             Car.numberOfCars++;
+            Car.totalValueInStock += price;
+        }
 
+        public void ListCar()
+        {
+            //display details for an individual car
+            Console.WriteLine("The details of this car are: ");
+            Console.Write("Make and model: {0} {1}, price: £{2:N0}.", make, model, price);  //:N0 formats the number
+            if (sold)
+            {
+                Console.WriteLine("This car has been sold.");
+            }
+            else
+            {
+                Console.WriteLine("This car has not yet been sold.");
+            }
+            Console.WriteLine();
+        }
+
+        //record the sale of a car
+        public void Sold(bool isSold, int price)
+        {
+            this.sold = isSold;
+            this.price = price;
+            //adjust the number of cars
+
+            if(isSold)
+            {
+                Car.totalValueSold += price;
+                Car.totalValueInStock -= price;
+                Car.numberOfCars--;
+            }
+            else
+            {
+                Car.totalValueSold -= price;
+                Car.totalValueInStock += price;
+                Car.numberOfCars++;
+            }
+           
         }
         
-        //record of sales
-        public void SoldCar(bool isSold, int price)
-        {           
-            this.price = price;
-            this.sold = isSold;
-            //adjust the number of cars
-            Car.numberOfCars--;
-        }
 
         //list all the cars
         public static void DisplayAllCars(List<Car> allCars)
         {
-            int totalValueSold = 0;
-            int totalValueInStock = 0;
+            
 
             foreach (Car item in allCars)
             {
@@ -51,19 +81,20 @@ namespace program.Car
                 if (item.sold)
                 {
                     Console.WriteLine("This car has been sold.");
-                    totalValueSold += item.price;
+                    
                 }
                 else
                 {
                     Console.WriteLine("This car is unsold.");
-                    totalValueInStock += item.price;
+                    
 
                 }
                 
             }
             Console.WriteLine("The total value of cars sold is: £{0:N0}", totalValueSold);
             Console.WriteLine("The total value of cars still in stock is: £{0:N0}", totalValueInStock);
-            
+            Console.WriteLine();
+
         }//end display cars
     }//end car class
 
@@ -72,6 +103,8 @@ namespace program.Car
         {
             public static void Main(string[] args)
             {
+
+            Car.numberOfCars = 0;
             // Declaring the objects
             List<Car> carslist = new List<Car>();
 
@@ -88,10 +121,19 @@ namespace program.Car
                 myCar3.AddCar("Mustang", "Shelby", 100000);
                 carslist.Add(myCar3);
 
-                Car.DisplayAllCars(carslist);
+            
+            //display cars data
+            Console.WriteLine("Total number of cars in stock is: {0}", Car.numberOfCars);
+            Console.WriteLine();
+            Car.DisplayAllCars(carslist);
 
+            //record the sale of a car
+            myCar2.Sold(true, 200000);
+            //display cars data
+            Car.DisplayAllCars(carslist);
+            Console.WriteLine("Total number of cars in stock is: {0}", Car.numberOfCars);
             Console.ReadLine();
-
+            
         }//end main
         }//end program class
 }//end namespace

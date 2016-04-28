@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.exe.config
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.exe
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.pdb
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.exe
+C:\Users\student\Documents\GitHub\Csharp\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\bin\Debug\TestingProgram.exe
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\bin\Debug\TestingProgram.pdb
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\student\Documents\GitHub\Csharp\TestingProgram\UnitTest\obj\Debug\UnitTest.pdb
